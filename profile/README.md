@@ -35,7 +35,7 @@ Work reusing code from this organization should cite the associated publication 
 
 The following resources describe how the organization operates and how to get in touch with the team:
 
-- the [contribution guidelines](https://github.com/ORG/.github/blob/main/CONTRIBUTING.md), which define the repository conventions and reproducibility requirements,
+- the [contribution guidelines](../CONTRIBUTING.md), which define the repository conventions and reproducibility requirements,
 - the [contact page](https://sergent-consciousness-lab.u-paris.fr/contact/), for collaboration proposals,
 - the [recruitment page](https://sergent-consciousness-lab.u-paris.fr/join-us/), for open positions.
   
