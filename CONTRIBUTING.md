@@ -42,7 +42,9 @@ Every repository should:
 
 ## Repository requirements
 
-Every repository should contain:
+Every repository must be created private, and may become public only by decision of the team leader.
+
+Every repository should contain, at least:
 
 - a `README.md` file stating at least the purpose of the repository, how to install the environment, and how to run the code,
 - a pinned environment specification (e.g. `environment.yml`, `requirements.txt`, `pyproject.toml` with a lock file),
@@ -60,7 +62,7 @@ Every repository should contain:
 ## Workflow
 
 - The default branch contains working code.
-- Commit messages should follow the [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/), using the organization's [commit message template](https://github.com/ORG/.github/blob/HEAD/.gitmessage).
+- Commit messages should follow the [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/), using the organization's [commit message template](https://github.com/sergentconsciousnesslab/.github/blob/HEAD/.gitmessage).
 
 > [!TIP]
 > To enable the template, download it and register it once:
