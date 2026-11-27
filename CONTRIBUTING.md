@@ -12,7 +12,7 @@ These guidelines should be applied by members and collaborators working on the r
 
 <!-- TODO: name the storage location or archive for datasets (e.g. institutional server) -->
 
-> [!IMPORTANT]
+> [!WARNING]
 > If such content is committed by mistake:
 >
 > 1. notify the maintainer,
