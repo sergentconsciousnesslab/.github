@@ -7,8 +7,7 @@
 [Team](https://sergent-consciousness-lab.u-paris.fr/our-team/) ·
 [Contact](https://sergent-consciousness-lab.u-paris.fr/contact/)
 
-<!-- TODO: commit the logo to this repository and reference it by absolute URL -->
-<img src="https://sergent-consciousness-lab.u-paris.fr/wp-content/uploads/sites/68/2023/10/sergentconsciousnesslab_logo.png" alt="Sergent Consciousness Lab logo" width="320">
+<img src="https://raw.githubusercontent.com/sergentconsciousnesslab/.github/HEAD/profile/assets/logo-sergent-consciousness-lab.png" alt="Sergent Consciousness Lab logo" width="320">
 
 </div>
 
@@ -16,7 +15,7 @@
 
 The Sergent Consciousness Lab is a cognitive neuroscience team led by Claire Sergent at the [Integrative Neuroscience and Cognition Center (INCC, UMR 8002)](https://incc-paris.fr/), affiliated with [Université Paris Cité](https://u-paris.fr/) and the [CNRS](https://www.cnrs.fr/en).
 
-The team investigates conscious perception by combining experimental psychology, neuroimaging (EEG, iEEG, MEG, fMRI), computational modelling, and clinical studies.
+The team investigates conscious perception by combining experimental psychology, neuroimaging (EEG, MEG, fMRI), computational modelling, and clinical studies.
 
 This organization hosts the code associated with that research: experimental paradigms, analysis pipelines, computational models, and shared tooling.
 
@@ -45,8 +44,10 @@ The following resources describe how the organization operates and how to get in
 
  <div align="center">
 
-[Université Paris Cité](https://u-paris.fr/) ·
-[INCC, UMR 8002](https://incc-paris.fr/) ·
-[CNRS](https://www.cnrs.fr/en)
+<a href="https://u-paris.fr/"><img src="https://raw.githubusercontent.com/sergentconsciousnesslab/.github/HEAD/profile/assets/logo-universite-paris-cite.jpg" alt="Université Paris Cité" height="70"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://incc-paris.fr/"><img src="https://raw.githubusercontent.com/sergentconsciousnesslab/.github/HEAD/profile/assets/logo-incc.png" alt="Integrative Neuroscience and Cognition Center (INCC, UMR 8002)" height="70"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.cnrs.fr/en"><img src="https://raw.githubusercontent.com/sergentconsciousnesslab/.github/HEAD/profile/assets/logo-cnrs.png" alt="CNRS" height="70"></a>
 
 </div>

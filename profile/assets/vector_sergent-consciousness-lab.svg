@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="356" viewBox="0 0 1040 356"><title>Sergent Consciousness Lab</title><rect width="1040" height="356" fill="white"/>
+<g transform="scale(0.4)" stroke-linecap="round" stroke-linejoin="round">
+<!-- posterior lower structure and brainstem -->
+<path d="M 252 704 C 266 690 266 676 275 661 L 368 606 L 405 635 C 400 657 377 668 351 683 L 310 720" fill="#d8d8d8" stroke="#5485b5" stroke-width="10"/>
+<path d="M 83 540 C 95 588 131 634 174 660 C 224 690 272 677 315 650 C 338 637 361 620 380 604 L 330 558 Z" fill="#bfbfbe" stroke="#5485b5" stroke-width="10"/>
+<!-- cerebral outline -->
+<path d="M 49 481 C 49 408 112 302 184 225 C 253 155 324 143 404 144 C 543 142 664 193 750 270 C 803 320 832 391 822 484 C 816 548 766 586 671 605 C 674 648 655 681 625 691 C 575 707 508 695 457 665 C 401 631 363 596 320 582 C 264 562 180 560 116 550 C 73 543 48 518 49 481 Z" fill="#d8d8d8" stroke="#5485b5" stroke-width="10"/>
+<g fill="none" stroke="#5485b5" stroke-width="9">
+<path d="M 438 146 C 482 206 510 278 523 417"/>
+<path d="M 231 353 C 248 410 291 444 350 471 C 424 509 486 539 528 571"/>
+<path d="M 367 342 C 398 400 450 431 526 459 C 618 489 662 524 670 605"/>
+</g>
+<defs><marker id="arrow-v2" markerWidth="4.0" markerHeight="3.8" refX="3.8" refY="1.9" orient="auto" markerUnits="strokeWidth"><path d="M0 0 L3.8 1.9 L0 3.8 L0.9 1.9 Z" fill="#242424"/></marker><marker id="arrow-small" markerWidth="2.6" markerHeight="2.5" refX="2.5" refY="1.25" orient="auto" markerUnits="strokeWidth"><path d="M0 0 L2.5 1.25 L0 2.5 L0.55 1.25 Z" fill="#242424"/></marker></defs>
+<g stroke="#242424" stroke-width="9" fill="none">
+<path d="M 268 244 C 229 262 197 284 179 317" marker-end="url(#arrow-v2)"/>
+<path d="M 189 357 C 233 351 281 326 309 297" marker-end="url(#arrow-v2)"/>
+<path d="M 391 264 C 431 294 488 308 568 328" marker-end="url(#arrow-v2)"/>
+<path d="M 655 315 C 605 254 513 219 394 200" marker-end="url(#arrow-v2)"/>
+<path d="M 585 350 C 472 361 379 405 263 478" marker-end="url(#arrow-v2)"/>
+<path d="M 371 504 C 447 496 529 463 579 433" marker-end="url(#arrow-v2)"/>
+<path d="M 165 374 C 165 403 136 435 115 449" marker-end="url(#arrow-small)"/>
+<path d="M 83 449 C 86 408 102 378 138 359" marker-end="url(#arrow-small)"/>
+<path d="M 212 494 C 191 477 155 457 117 463" marker-end="url(#arrow-small)"/>
+<path d="M 113 490 C 133 522 170 527 201 523" marker-end="url(#arrow-small)"/>
+<path d="M 349 526 C 329 502 290 489 257 509" marker-end="url(#arrow-small)"/>
+<path d="M 255 535 C 278 558 320 561 349 550" marker-end="url(#arrow-small)"/>
+</g>
+<g fill="#d8d8d8" stroke="#242424" stroke-width="9">
+<circle cx="330" cy="233" r="63"/><circle cx="649" cy="374" r="63"/>
+<circle cx="160" cy="348" r="24"/><circle cx="94" cy="473" r="25"/>
+<circle cx="232" cy="519" r="26"/><circle cx="374" cy="550" r="24"/>
+</g>
+<g fill="none" stroke="white" stroke-width="4"><circle cx="330" cy="233" r="54"/><circle cx="649" cy="374" r="54"/><circle cx="160" cy="348" r="16"/><circle cx="94" cy="473" r="17"/><circle cx="232" cy="519" r="18"/><circle cx="374" cy="550" r="16"/></g>
+</g>
+<g aria-label="Sergent" fill="none" stroke="#3a3a3a" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 37 11 C 34 3 27 0 18 0 C 7 0 1 6 1 14 C 1 23 8 27 19 30 C 31 33 38 38 38 47 C 38 56 30 61 20 61 C 10 61 3 56 0 49" transform="translate(377 23) scale(0.97436 1)"/>
+<path d="M 0 35 H 45 C 45 21 36 13 23 13 C 10 13 0 24 0 37 C 0 50 10 61 24 61 C 33 61 40 57 44 50" transform="translate(425 23) scale(0.97826 1)"/>
+<path d="M 0 61 V 14 M 0 34 C 2 20 10 13 23 13" transform="translate(480 23) scale(1.00000 1)"/>
+<path d="M 47 14 V 57 C 47 77 37 84 24 84 C 12 84 5 78 2 71 M 47 37 C 47 23 36 13 24 13 C 10 13 0 24 0 37 C 0 50 10 61 24 61 C 36 61 47 50 47 37" transform="translate(510 23) scale(1.00000 1)"/>
+<path d="M 0 35 H 45 C 45 21 36 13 23 13 C 10 13 0 24 0 37 C 0 50 10 61 24 61 C 33 61 40 57 44 50" transform="translate(572 23) scale(0.97826 1)"/>
+<path d="M 0 61 V 14 M 0 32 C 0 21 10 13 21 13 C 34 13 40 22 40 35 V 61" transform="translate(628 23) scale(0.97561 1)"/>
+<path d="M 12 1 V 48 C 12 58 17 61 29 60 M 0 14 H 29" transform="translate(673 23) scale(1.00000 1)"/>
+</g>
+<g aria-label="Consciousness" fill="none" stroke="#3a3a3a" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 56 13 C 50 4 40 0 29 0 C 12 0 0 13 0 30 C 0 47 12 61 29 61 C 41 61 50 56 56 47" transform="translate(377 147) scale(0.98276 1)"/>
+<path d="M 47 37 C 47 24 37 13 24 13 C 10 13 0 24 0 37 C 0 50 10 61 24 61 C 37 61 47 50 47 37 Z" transform="translate(446 147) scale(0.95833 1)"/>
+<path d="M 0 61 V 14 M 0 32 C 0 21 10 13 21 13 C 34 13 40 22 40 35 V 61" transform="translate(500 147) scale(0.97561 1)"/>
+<path d="M 35 22 C 31 16 25 13 18 13 C 8 13 2 18 2 25 C 2 33 10 36 19 38 C 29 40 36 44 36 51 C 36 58 28 62 18 62 C 9 62 3 58 0 52" transform="translate(550 147) scale(1.00000 1)"/>
+<path d="M 44 24 C 39 17 32 13 24 13 C 10 13 0 24 0 37 C 0 50 10 61 24 61 C 33 61 39 57 44 50" transform="translate(595 147) scale(1.00000 1)"/>
+<path d="M 2 14 V 61 M 2 0 v 1" transform="translate(650 147) scale(1.25000 1)"/>
+<path d="M 47 37 C 47 24 37 13 24 13 C 10 13 0 24 0 37 C 0 50 10 61 24 61 C 37 61 47 50 47 37 Z" transform="translate(673 147) scale(0.97917 1)"/>
+<path d="M 0 14 V 39 C 0 54 7 61 19 61 C 31 61 40 53 40 42 M 40 14 V 61" transform="translate(729 147) scale(0.97561 1)"/>
+<path d="M 35 22 C 31 16 25 13 18 13 C 8 13 2 18 2 25 C 2 33 10 36 19 38 C 29 40 36 44 36 51 C 36 58 28 62 18 62 C 9 62 3 58 0 52" transform="translate(781 147) scale(1.05405 1)"/>
+<path d="M 0 61 V 14 M 0 32 C 0 21 10 13 21 13 C 34 13 40 22 40 35 V 61" transform="translate(828 147) scale(0.97561 1)"/>
+<path d="M 0 35 H 45 C 45 21 36 13 23 13 C 10 13 0 24 0 37 C 0 50 10 61 24 61 C 33 61 40 57 44 50" transform="translate(880 147) scale(1.00000 1)"/>
+<path d="M 35 22 C 31 16 25 13 18 13 C 8 13 2 18 2 25 C 2 33 10 36 19 38 C 29 40 36 44 36 51 C 36 58 28 62 18 62 C 9 62 3 58 0 52" transform="translate(934 147) scale(0.97297 1)"/>
+<path d="M 35 22 C 31 16 25 13 18 13 C 8 13 2 18 2 25 C 2 33 10 36 19 38 C 29 40 36 44 36 51 C 36 58 28 62 18 62 C 9 62 3 58 0 52" transform="translate(978 147) scale(0.97297 1)"/>
+</g>
+<g aria-label="Lab" fill="none" stroke="#3a3a3a" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 0 0 V 60 H 28" transform="translate(377 271) scale(0.96667 1)"/>
+<path d="M 47 14 V 61 M 47 37 C 47 24 37 13 24 13 C 10 13 0 24 0 37 C 0 50 10 61 24 61 C 37 61 47 50 47 37" transform="translate(412 271) scale(0.97917 1)"/>
+<path d="M 0 0 V 61 M 0 37 C 0 24 10 13 24 13 C 37 13 47 24 47 37 C 47 50 37 61 24 61 C 10 61 0 50 0 37" transform="translate(473 271) scale(0.97917 1)"/>
+</g>
+</svg>
